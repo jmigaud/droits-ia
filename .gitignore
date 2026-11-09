@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Node
+node_modules/
+dist/
+
+# Jamais de vrais documents personnels dans le dépôt
+uploads/
+*.jpg
+*.jpeg
+*.png
+*.pdf
+!docs/**/*.png
